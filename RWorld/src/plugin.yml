@@ -2,7 +2,7 @@ name: RWorld
 main: cn.mclover.mc.rworld.Main
 softdepend: [Multiverse-Core, MultiWorld, LWC]
 version: 2.2
-author: leon
+author: wahoo
 website: www.mclover.cn
 description: Auto reflesh world at night
 commands:
