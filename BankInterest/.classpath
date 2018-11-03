@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/_MinecraftServer/JarsLib/spigot-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Desktop/BankInterest.jar"/>
+	<classpathentry kind="lib" path="D:/_MinecraftServer/JarsLib/[前置插件]Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

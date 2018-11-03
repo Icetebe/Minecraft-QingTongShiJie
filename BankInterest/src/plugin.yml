@@ -1,0 +1,9 @@
+name: BankInterest
+main: cn.mclover.mc.bank.InterestMain
+version: 1.0
+author: wahoo
+description: Give player interest.
+depend: [Vault]
+permissions:
+   bank.interest:
+      default: op
