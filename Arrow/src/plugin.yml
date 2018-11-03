@@ -1,0 +1,13 @@
+name: ArrowThroughCloud
+main: cn.mclover.mc.arrow.Main
+version: 3.1
+author: Wahoo
+description: An arrow through the clouds, to meet a powerful army
+commands:
+   arrow:
+      description: help
+      usage: /arrow give [name] <num>; /arrow pgive [name] <num>; /arrow reset; /arrow reload
+permissions:
+   arrow:
+      description: /arrow
+      default: op
