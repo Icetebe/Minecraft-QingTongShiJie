@@ -17,6 +17,7 @@ http://www.mclover.cn/QT3/
 # 开源插件列表
 1. RWrold 无尽资源：在空闲时期重置资源地图
 2. WaterFlowLimit 小桥流水：液体流动优化拒绝水柱
+3. BankInterest 银行利息：每日登陆自动发放存款利息
 
 ------
 希望有所收获的MC爱好者给个⭐~
